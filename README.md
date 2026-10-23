@@ -95,6 +95,11 @@ python server.py
 
 **This is unofficial and experimental.** It uses an undocumented web endpoint and may violate Monica's Terms of Use; account restrictions or breakage are possible. Use at your own risk, for personal/educational purposes only. Never share your Cookie header. Text chat only.
 
+## 文档
+
+- [CHANGELOG.md](CHANGELOG.md) — 版本改动记录
+- [docs/notes.md](docs/notes.md) — 技术决策与踩坑记录（代理直连、重试设计、限流观察等实测结论）
+
 ## License
 
 [MIT](LICENSE)
